@@ -1,0 +1,32 @@
+# NEON Data Configuration
+# Source B: Paired microbiome + environmental data (highest value)
+
+api_base_url: "https://data.neonscience.org/api/v0"
+
+# Data product IDs
+data_products:
+  soil_microbe:
+    id: "DP1.10107.001"
+    description: "Soil microbe metagenome sequencing"
+  soil_chemical:
+    id: "DP1.10086.001"
+    description: "Soil chemical properties (pH, organic C, total N)"
+  soil_physical:
+    id: "DP1.00094.001"
+    description: "Soil temperature and moisture"
+  weather:
+    id: "DP1.00006.001"
+    description: "Precipitation and air temperature"
+
+# NEON site filter (all terrestrial sites)
+site_type: "TERRESTRIAL"
+
+# Date range
+start_date: "2017-01"
+end_date: "2025-12"
+
+# Output paths
+output_dir: "data/raw/neon"
+abundance_file: "neon_abundance.csv"
+metadata_file: "neon_metadata.csv"
+paired_file: "neon_paired.csv"

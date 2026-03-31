@@ -1,0 +1,22 @@
+# Earth Microbiome Project Configuration
+# Source C: Standardized protocol global samples
+
+# EMP data access
+ftp_base: "ftp://ftp.microbio.me/emp/release1"
+
+# Biome filter keywords for soil samples
+soil_keywords:
+  - "soil"
+  - "rhizosphere"
+  - "agricultural"
+  - "forest floor"
+  - "grassland"
+
+# Target: 16S rRNA gene amplicon data
+amplicon_type: "16S"
+primer_set: "515f-806r"  # EMP standard primers
+
+# Output paths
+output_dir: "data/raw/emp"
+abundance_file: "emp_abundance.csv"
+metadata_file: "emp_metadata.csv"

@@ -1,0 +1,29 @@
+# MGnify API Configuration
+# Source A: Taxonomic abundance tables from soil biomes
+
+api_base_url: "https://www.ebi.ac.uk/metagenomics/api/v1"
+
+# Soil-related biome filters
+biome_lineages:
+  - "root:Environmental:Terrestrial:Soil"
+  - "root:Environmental:Terrestrial:Soil:Agricultural"
+  - "root:Environmental:Terrestrial:Soil:Forest"
+  - "root:Environmental:Terrestrial:Soil:Grassland"
+  - "root:Environmental:Terrestrial:Soil:Desert"
+  - "root:Environmental:Terrestrial:Soil:Permafrost"
+
+# Target sample count
+target_samples: 15000
+
+# Taxonomy level
+taxonomy_level: "genus"
+
+# API pagination
+page_size: 100
+max_retries: 3
+retry_delay_seconds: 5
+
+# Output paths
+output_dir: "data/raw/mgnify"
+abundance_file: "mgnify_abundance.csv"
+metadata_file: "mgnify_metadata.csv"
