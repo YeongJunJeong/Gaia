@@ -1,0 +1,975 @@
+sample_id,study_id,pipeline_version,sample_name,latitude,longitude,collection_date,biome,feature,material,biome_envo,metadata_complete,batch_correctable
+ERS25265507,MGYS00006846,5.0,,,,,,,,unknown,False,False
+ERS25313689,MGYS00006846,5.0,Metagenomic_solo_RS,-7.1216,-39.1931,,Area de grave poluicao ambiental por metais pesados,dryland soil,water/soil,unknown,True,False
+ERS25313690,MGYS00006846,5.0,Metagenomic_solo_RA,-7.1445,-39.1859,,Area de grave poluicao ambiental por metais pesados,dryland soil,water/soil,unknown,True,False
+SRS105347,MGYS00006821,5.0,BAF2,,,,,,,unknown,False,False
+SRS105348,MGYS00006821,5.0,BAF3,,,,,,,unknown,False,False
+SRS105355,MGYS00006821,5.0,FMG1,,,,,,,unknown,False,False
+SRS105352,MGYS00006821,5.0,FUG1,,,,,,,unknown,False,False
+SRS105360,MGYS00006821,5.0,UPG3,,,,,,,unknown,False,False
+SRS105344,MGYS00006821,5.0,SAF2,,,,,,,unknown,False,False
+SRS105353,MGYS00006821,5.0,FUG2,,,,,,,unknown,False,False
+SRS105356,MGYS00006821,5.0,,,,,,,,unknown,False,False
+SRS105358,MGYS00006821,5.0,UPG1,,,,,,,unknown,False,False
+ERS6356204,MGYS00005779,5.0,1.1.8.1,1.5077,-75.92,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356200,MGYS00005779,5.0,1.1.7.1,1.4801,-75.8789,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356176,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356201,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356207,MGYS00005779,5.0,1.1.8.4,1.5077,-75.92,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356196,MGYS00005779,5.0,1.1.6.1,1.5245,-75.9407,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356199,MGYS00005779,5.0,1.1.6.4,1.5245,-75.9407,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356193,MGYS00005779,5.0,1.1.5.2,1.5229,-75.9381,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356183,MGYS00005779,5.0,1.1.2.4,1.5197,-75.9399,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356190,MGYS00005779,5.0,1.1.4.3,1.5239,-75.9342,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356181,MGYS00005779,5.0,1.1.2.2,1.5197,-75.9399,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356185,MGYS00005779,5.0,1.1.3.2,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356182,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356238,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356219,MGYS00005779,5.0,2.4.4,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:01000338,ENVO:01000338,unknown,True,False
+ERS6356224,MGYS00005779,5.0,3.4.1.1,0.7377,-75.1819,2019-12-01,ENVO:01000228,ENVO:00005773,ENVO:00005773,unknown,True,False
+ERS6356239,MGYS00005779,5.0,3.4.4.4,0.7385,-75.1812,2019-12-01,ENVO:01000228,ENVO:00005773,ENVO:00005773,unknown,True,False
+ERS6356235,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356210,MGYS00005779,5.0,1.1.9.3,1.518,-75.9245,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356217,MGYS00005779,5.0,2.4.2,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:01000338,ENVO:01000338,unknown,True,False
+ERS6356209,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356218,MGYS00005779,5.0,2.4.3,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:01000338,ENVO:01000338,unknown,True,False
+ERS6356215,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356214,MGYS00005779,5.0,2.1.3,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:01000338,ENVO:01000338,unknown,True,False
+ERS6356230,MGYS00005779,5.0,3.4.2.3,0.7377,-75.1819,2019-12-01,ENVO:01000228,ENVO:00005773,ENVO:00005773,unknown,True,False
+ERS6356229,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356211,MGYS00005779,5.0,1.1.9.4,1.518,-75.9245,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356231,MGYS00005779,5.0,3.4.2.4,0.7377,-75.1819,2019-12-01,ENVO:01000228,ENVO:00005773,ENVO:00005773,unknown,True,False
+ERS6356227,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356221,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356223,MGYS00005779,5.0,2.7.4,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:01000338,ENVO:01000338,unknown,True,False
+ERS6356233,MGYS00005779,5.0,3.4.3.2,0.7401,-75.1814,2019-12-01,ENVO:01000228,ENVO:00005773,ENVO:00005773,unknown,True,False
+ERS6356237,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356236,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356189,MGYS00005779,5.0,1.1.4.2,,,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,False,False
+ERS6356208,MGYS00005779,5.0,1.1.9.1,1.518,-75.9245,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356205,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356202,MGYS00005779,5.0,1.1.7.3,1.4801,-75.8789,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356206,MGYS00005779,5.0,1.1.8.3,1.5077,-75.92,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356188,MGYS00005779,5.0,1.1.4.1,1.5239,-75.9342,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356198,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356197,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356192,MGYS00005779,5.0,1.1.5.1,1.5229,-75.9381,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356179,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356228,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356180,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356195,MGYS00005779,5.0,1.1.5.4,1.5229,-75.9381,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356177,MGYS00005779,5.0,1.1.1.2,1.5195,-75.9373,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356226,MGYS00005779,5.0,3.4.1.3,0.7377,-75.1819,2019-12-01,ENVO:01000228,ENVO:00005773,ENVO:00005773,unknown,True,False
+ERS6356194,MGYS00005779,5.0,1.1.5.3,1.5229,-75.9381,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356178,MGYS00005779,5.0,1.1.1.3,1.5195,-75.9373,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356220,MGYS00005779,5.0,2.7.1,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:01000338,ENVO:01000338,unknown,True,False
+ERS6356213,MGYS00005779,5.0,2.1.2,1.5169,-75.9398,2019-12-01,ENVO:01000228,ENVO:01000338,ENVO:01000338,unknown,True,False
+ERS6356212,MGYS00005779,5.0,,,,,,,,unknown,False,False
+ERS6356225,MGYS00005779,5.0,3.4.1.2,0.7377,-75.1819,2019-12-01,ENVO:01000228,ENVO:00005773,ENVO:00005773,unknown,True,False
+ERS6356203,MGYS00005779,5.0,1.1.7.4,1.4801,-75.8789,2019-12-01,ENVO:01000228,ENVO:00001998,ENVO:00001998,unknown,True,False
+ERS6356186,MGYS00005779,5.0,,,,,,,,unknown,False,False
+SRS8364203,MGYS00006746,5.0,SEW50_2014_Illumina,53.0395,13.787,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364207,MGYS00006746,5.0,AEW02_2017_Illumina,48.38,9.3515,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364216,MGYS00006746,5.0,AEW11_2017_Illumina,48.4916,9.3198,,temperate forest,Spruce_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8374691,MGYS00006746,5.0,AEW05_2017_Illumina,48.4196,9.4147,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364215,MGYS00006746,5.0,AEW12_2017_Illumina,48.3695,9.2514,,temperate forest,Spruce_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364225,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364720,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364224,MGYS00006746,5.0,SEG31_2014_Illumina,53.1491,13.8354,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364233,MGYS00006746,5.0,SEG39_2014_Illumina,52.9809,13.8233,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364238,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364726,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364143,MGYS00006746,5.0,HEW49_2014_Illumina,51.1437,10.3845,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364147,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364338,MGYS00006746,5.0,HEG39_2017_Illumina,51.1202,10.3463,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364343,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364350,MGYS00006746,5.0,HEG50_2017_Illumina,51.2765,10.4208,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364344,MGYS00006746,5.0,HEG44_2017_Illumina,51.0552,10.4796,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8374711,MGYS00006746,5.0,SEG15_2014_Illumina,53.1094,14.0091,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364356,MGYS00006746,5.0,SEG05_2017_Illumina,53.1075,14.0005,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364549,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8374686,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364564,MGYS00006746,5.0,SEG26_2014_Illumina,53.1058,14.0184,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364175,MGYS00006746,5.0,SEW08_2014_Illumina,53.1918,13.9303,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364563,MGYS00006746,5.0,SEG27_2014_Illumina,53.1228,13.7074,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364174,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364211,MGYS00006746,5.0,AEW09_2017_Illumina,48.3694,9.4152,,temperate forest,Beech_extensively_managed_mature_timber,soil,ENVO:01001198,True,False
+SRS8364210,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364217,MGYS00006746,5.0,AEW13_2017_Illumina,48.3789,9.3987,,temperate forest,Spruce_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364191,MGYS00006746,5.0,SEW23_2014_Illumina,52.949,13.7792,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364426,MGYS00006746,5.0,AEW29_2017_Illumina,48.3837,9.3566,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8364432,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8363976,MGYS00006746,5.0,AEG06_2011_Illumina,48.4013,9.4417,,temperate grassland,Mown pasture_cattle_horse_fertilised,soil,ENVO:00005750,True,False
+SRS8363977,MGYS00006746,5.0,AEG07_2011_Illumina,48.3914,9.3768,,temperate grassland,Pasturesheep_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8363985,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364008,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8374679,MGYS00006746,5.0,HEG11_2011_Illumina,51.2807,10.4562,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364037,MGYS00006746,5.0,HEG16_2011_Illumina,51.0335,10.4588,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364032,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364031,MGYS00006746,5.0,HEG09_2011_Illumina,51.2239,10.3808,,temperate grassland,Pasture_cattle_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364051,MGYS00006746,5.0,HEG30_2011_Illumina,51.2019,10.3599,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364053,MGYS00006746,5.0,HEG31_2011_Illumina,51.1704,10.2212,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364047,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364048,MGYS00006746,5.0,HEG27_2011_Illumina,51.0865,10.597,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364061,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364137,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364145,MGYS00006746,5.0,SEW01_2014_Illumina,52.9009,13.8464,,temperate forest,Pine_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8364173,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364180,MGYS00006746,5.0,SEW13_2014_Illumina,53.0164,13.8639,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364177,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364181,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364194,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364183,MGYS00006746,5.0,SEW16_2014_Illumina,53.0766,13.864,,temperate forest,Pine_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364609,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364611,MGYS00006746,5.0,AEW42_2017_Illumina,48.3961,9.4527,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364625,MGYS00006746,5.0,HEW05_2017_Illumina,51.2639,10.241,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8374717,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364620,MGYS00006746,5.0,HEW01_2017_Illumina,51.1854,10.3236,,temperate forest,Spruce_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364624,MGYS00006746,5.0,HEW08_2017_Illumina,51.3558,10.517,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364623,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364636,MGYS00006746,5.0,SEW50_2011_Illumina,53.0395,13.787,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364661,MGYS00006746,5.0,HEW21_2017_Illumina,51.1943,10.319,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364673,MGYS00006746,5.0,HEW33_2017_Illumina,51.3416,10.5088,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364655,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364668,MGYS00006746,5.0,HEW29_2017_Illumina,51.1275,10.3797,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364672,MGYS00006746,5.0,HEW32_2017_Illumina,51.1395,10.3586,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364718,MGYS00006746,5.0,HEW37_2017_Illumina,51.0844,10.4586,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364727,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364725,MGYS00006746,5.0,HEW41_2017_Illumina,51.1081,10.4549,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364724,MGYS00006746,5.0,HEW42_2017_Illumina,51.1028,10.4598,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364739,MGYS00006746,5.0,SEW03_2017_Illumina,52.9207,13.643,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364732,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8374729,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364749,MGYS00006746,5.0,SEW13_2017_Illumina,53.0164,13.8639,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364761,MGYS00006746,5.0,SEW26_2017_Illumina,52.9174,13.7462,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364751,MGYS00006746,5.0,SEW15_2017_Illumina,52.9145,13.7376,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8374716,MGYS00006746,5.0,AEW46_2017_Illumina,48.3863,9.3593,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8364463,MGYS00006746,5.0,SEW31_2014_Illumina,52.8811,13.9034,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8374704,MGYS00006746,5.0,SEW37_2014_Illumina,52.94,13.7826,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364485,MGYS00006746,5.0,AEG50_2014_Illumina,48.4057,9.4676,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364646,MGYS00006746,5.0,AEW11_2014_Illumina,48.4916,9.3198,,temperate forest,Spruce_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364654,MGYS00006746,5.0,HEW14_2017_Illumina,51.3662,10.2582,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8364663,MGYS00006746,5.0,HEW23_2017_Illumina,51.2782,10.2085,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8364670,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364540,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364544,MGYS00006746,5.0,SEG08_2014_Illumina,53.114,14.0171,,temperate grassland,Pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364555,MGYS00006746,5.0,SEG19_2014_Illumina,53.1245,14.0091,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364737,MGYS00006746,5.0,SEW01_2017_Illumina,52.9009,13.8464,,temperate forest,Pine_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8364559,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364247,MGYS00006746,5.0,AEG01_2017_Illumina,48.398,9.342,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364252,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364755,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364253,MGYS00006746,5.0,AEG11_2017_Illumina,48.4854,9.3477,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364255,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8374730,MGYS00006746,5.0,SEW20_2017_Illumina,53.0886,13.6354,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364762,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364262,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364769,MGYS00006746,5.0,SEW33_2017_Illumina,52.915,13.8874,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364763,MGYS00006746,5.0,SEW28_2017_Illumina,52.884,13.664,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364265,MGYS00006746,5.0,AEG21_2017_Illumina,48.4422,9.3572,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364264,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364275,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364287,MGYS00006746,5.0,AEG41_2017_Illumina,48.3699,9.3985,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364293,MGYS00006746,5.0,AEG46_2017_Illumina,48.397,9.4349,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364290,MGYS00006746,5.0,AEG45_2017_Illumina,48.4013,9.458,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364279,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364308,MGYS00006746,5.0,HEG10_2017_Illumina,51.2752,10.4468,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364333,MGYS00006746,5.0,HEG34_2017_Illumina,51.2143,10.3869,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364337,MGYS00006746,5.0,HEG38_2017_Illumina,51.1162,10.3415,,temperate grassland,Mown pasture_cattle/horse_fertilised,soil,ENVO:00005750,True,False
+SRS8364339,MGYS00006746,5.0,HEG40_2017_Illumina,50.9668,10.4468,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364348,MGYS00006746,5.0,HEG49_2017_Illumina,51.2789,10.3919,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364334,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364469,MGYS00006746,5.0,SEW36_2014_Illumina,52.9514,13.7541,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364365,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364367,MGYS00006746,5.0,SEG15_2017_Illumina,53.1094,14.0091,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364477,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364371,MGYS00006746,5.0,SEG19_2017_Illumina,53.1245,14.0091,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364475,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364484,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364382,MGYS00006746,5.0,SEG29_2017_Illumina,53.0904,13.9987,,temperate grassland,No use,soil,ENVO:00005750,True,False
+SRS8364414,MGYS00006746,5.0,HEW50_2011_Illumina,51.0928,10.4555,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364397,MGYS00006746,5.0,SEG41_2017_Illumina,53.1222,13.8523,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364423,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364422,MGYS00006746,5.0,AEW26_2017_Illumina,48.4175,9.4382,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8364514,MGYS00006746,5.0,HEG27_2014_Illumina,51.0865,10.597,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364435,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364546,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364545,MGYS00006746,5.0,SEG07_2014_Illumina,53.0884,13.9771,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8363982,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364556,MGYS00006746,5.0,SEG20_2014_Illumina,53.1035,13.6154,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8374690,MGYS00006746,5.0,AEW03_2017_Illumina,48.4123,9.3556,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364557,MGYS00006746,5.0,SEG21_2014_Illumina,53.1062,13.6111,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364208,MGYS00006746,5.0,AEW04_2017_Illumina,48.3991,9.2448,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8364214,MGYS00006746,5.0,AEW08_2017_Illumina,48.3826,9.3824,,temperate forest,Beech_extensively_managed_mature_timber,soil,ENVO:01001198,True,False
+SRS8364218,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364027,MGYS00006746,5.0,HEG05_2011_Illumina,51.2159,10.3225,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364022,MGYS00006746,5.0,AEW06_2011_Illumina,48.3941,9.4459,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364226,MGYS00006746,5.0,SEG32_2014_Illumina,53.1519,13.8321,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364026,MGYS00006746,5.0,HEG03_2011_Illumina,50.9981,10.433,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8364232,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364237,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364239,MGYS00006746,5.0,SEG44_2014_Illumina,52.8801,13.9652,,temperate grassland,Pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364036,MGYS00006746,5.0,HEG15_2011_Illumina,51.068,10.4862,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8364230,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364041,MGYS00006746,5.0,HEG20_2011_Illumina,51.2211,10.371,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364248,MGYS00006746,5.0,AEG05_2017_Illumina,48.3959,9.4392,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364244,MGYS00006746,5.0,SEG49_2014_Illumina,52.9747,13.8566,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364044,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364055,MGYS00006746,5.0,HEG34_2011_Illumina,51.2143,10.3869,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364260,MGYS00006746,5.0,AEG18_2017_Illumina,48.3829,9.5214,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364056,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364272,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364050,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364277,MGYS00006746,5.0,AEG32_2017_Illumina,48.4658,9.4858,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364058,MGYS00006746,5.0,HEG36_2011_Illumina,51.0315,10.5102,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8364291,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364284,MGYS00006746,5.0,AEG39_2017_Illumina,48.3942,9.4257,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364072,MGYS00006746,5.0,HEG49_2011_Illumina,51.2789,10.3919,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364292,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364294,MGYS00006746,5.0,AEG48_2017_Illumina,48.4219,9.4987,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364300,MGYS00006746,5.0,HEG02_2017_Illumina,51.0008,10.43,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8364304,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364303,MGYS00006746,5.0,HEG05_2017_Illumina,51.2159,10.3225,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364312,MGYS00006746,5.0,HEG16_2017_Illumina,51.0335,10.4588,,temperate grassland,Mown Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364318,MGYS00006746,5.0,HEG18_2017_Illumina,51.2837,10.4247,,temperate grassland,Mown Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364316,MGYS00006746,5.0,HEG17_2017_Illumina,51.0705,10.4705,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364323,MGYS00006746,5.0,HEG24_2017_Illumina,51.1011,10.3512,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364325,MGYS00006746,5.0,HEG27_2017_Illumina,51.0865,10.597,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364324,MGYS00006746,5.0,HEG25_2017_Illumina,51.0234,10.3223,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364317,MGYS00006746,5.0,HEG19_2017_Illumina,51.0732,10.4732,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364115,MGYS00006746,5.0,HEW10_2011_Illumina,51.09,10.4624,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364336,MGYS00006746,5.0,HEG37_2017_Illumina,51.0324,10.5145,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364124,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364332,MGYS00006746,5.0,HEG33_2017_Illumina,51.1114,10.426,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364125,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364359,MGYS00006746,5.0,SEG08_2017_Illumina,53.114,14.0171,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364358,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364360,MGYS00006746,5.0,SEG09_2017_Illumina,53.0982,13.6126,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364366,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364176,MGYS00006746,5.0,SEW10_2014_Illumina,53.0911,13.6378,,temperate forest,Pine_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8364370,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364186,MGYS00006746,5.0,SEW18_2014_Illumina,52.8624,13.9173,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364184,MGYS00006746,5.0,SEW15_2014_Illumina,52.9145,13.7376,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364387,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364385,MGYS00006746,5.0,SEG32_2017_Illumina,53.1519,13.8321,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364390,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364395,MGYS00006746,5.0,SEG42_2017_Illumina,52.8707,13.9688,,temperate grassland,Pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364614,MGYS00006746,5.0,AEW43_2017_Illumina,48.3791,9.3783,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364610,MGYS00006746,5.0,AEW40_2017_Illumina,48.4996,9.3494,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364392,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364197,MGYS00006746,5.0,AEG25_2014_Illumina,48.3955,9.2596,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364622,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364629,MGYS00006746,5.0,HEW11_2017_Illumina,51.1028,10.4009,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364618,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364635,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8374700,MGYS00006746,5.0,AEW23_2017_Illumina,48.3858,9.488,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364420,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364427,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364657,MGYS00006746,5.0,HEW17_2017_Illumina,51.2828,10.2269,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8364425,MGYS00006746,5.0,AEW28_2017_Illumina,48.4924,9.305,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8364429,MGYS00006746,5.0,AEW31_2017_Illumina,48.3811,9.2568,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364659,MGYS00006746,5.0,HEW19_2017_Illumina,51.1992,10.3377,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364660,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364666,MGYS00006746,5.0,HEW27_2017_Illumina,51.3561,10.5213,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364665,MGYS00006746,5.0,HEW26_2017_Illumina,51.3443,10.513,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364669,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364667,MGYS00006746,5.0,HEW30_2017_Illumina,51.1347,10.3786,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364229,MGYS00006746,5.0,SEG35_2014_Illumina,52.9803,13.8483,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364702,MGYS00006746,5.0,AEW47_2014_Illumina,48.4167,9.4079,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8363983,MGYS00006746,5.0,AEG16_2011_Illumina,48.402,9.4557,,temperate grassland,Mown pasture_cattle_chorse_fertilised,soil,ENVO:00005750,True,False
+SRS8364719,MGYS00006746,5.0,HEW35_2017_Illumina,51.1047,10.4051,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364729,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364754,MGYS00006746,5.0,SEW16_2017_Illumina,53.0766,13.864,,temperate forest,Pine_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364024,MGYS00006746,5.0,HEG02_2011_Illumina,51.0008,10.43,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8364758,MGYS00006746,5.0,SEW24_2017_Illumina,52.8897,13.9672,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364025,MGYS00006746,5.0,HEG01_2011_Illumina,50.9717,10.4054,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364759,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8374680,MGYS00006746,5.0,HEG12_2011_Illumina,51.0772,10.5758,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364028,MGYS00006746,5.0,HEG04_2011_Illumina,51.1134,10.4362,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364059,MGYS00006746,5.0,HEG37_2011_Illumina,51.0324,10.5145,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8364045,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364060,MGYS00006746,5.0,HEG38_2011_Illumina,51.1162,10.3415,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364062,MGYS00006746,5.0,HEG40_2011_Illumina,50.9668,10.4468,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364065,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364447,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364066,MGYS00006746,5.0,HEG43_2011_Illumina,51.302,10.4358,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364070,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364462,MGYS00006746,5.0,SEW26_2014_Illumina,52.9174,13.7462,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364461,MGYS00006746,5.0,SEW30_2014_Illumina,53.0621,13.9224,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364468,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364473,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364478,MGYS00006746,5.0,SEW44_2014_Illumina,52.9185,13.8592,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8364476,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364535,MGYS00006746,5.0,HEG49_2014_Illumina,51.2789,10.3919,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364149,MGYS00006746,5.0,SEW02_2014_Illumina,52.9517,13.778,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8364160,MGYS00006746,5.0,HEW12_2011_Illumina,51.1007,10.4552,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364193,MGYS00006746,5.0,SEW24_2014_Illumina,52.8897,13.9672,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364243,MGYS00006746,5.0,SEG48_2014_Illumina,53.0972,13.6066,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364240,MGYS00006746,5.0,SEG45_2014_Illumina,52.8815,13.9594,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364251,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364256,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364257,MGYS00006746,5.0,AEG13_2017_Illumina,48.3917,9.3622,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364263,MGYS00006746,5.0,AEG19_2017_Illumina,48.3976,9.4473,,temperate grassland,Pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364259,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364261,MGYS00006746,5.0,AEG17_2017_Illumina,48.3993,9.5184,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364268,MGYS00006746,5.0,AEG23_2017_Illumina,48.4191,9.5122,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364276,MGYS00006746,5.0,AEG31_2017_Illumina,48.4587,9.46,,temperate grassland,No use,soil,ENVO:00005750,True,False
+SRS8364273,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364278,MGYS00006746,5.0,AEG33_2017_Illumina,48.4514,9.4911,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364280,MGYS00006746,5.0,AEG35_2017_Illumina,48.4809,9.2884,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364274,MGYS00006746,5.0,AEG29_2017_Illumina,48.4168,9.3583,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364289,MGYS00006746,5.0,AEG43_2017_Illumina,48.4134,9.542,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364288,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364302,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364306,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364314,MGYS00006746,5.0,HEG14_2017_Illumina,51.2941,10.4358,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8364319,MGYS00006746,5.0,HEG20_2017_Illumina,51.2211,10.371,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364301,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364322,MGYS00006746,5.0,HEG23_2017_Illumina,51.1343,10.3382,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8364326,MGYS00006746,5.0,HEG26_2017_Illumina,51.2815,10.3717,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8364340,MGYS00006746,5.0,HEW35_2011_Illumina,51.1047,10.4051,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8364321,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364341,MGYS00006746,5.0,HEG41_2017_Illumina,51.221,10.3669,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8364374,MGYS00006746,5.0,SEG21_2017_Illumina,53.1062,13.6111,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364349,MGYS00006746,5.0,HEG48_2017_Illumina,51.2868,10.3801,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8364393,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364416,MGYS00006746,5.0,AEW18_2017_Illumina,48.365,9.2338,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8364398,MGYS00006746,5.0,SEG44_2017_Illumina,52.8801,13.9652,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364394,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364652,MGYS00006746,5.0,HEW12_2017_Illumina,51.1007,10.4552,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8374699,MGYS00006746,5.0,HEW49_2011_Illumina,51.1437,10.3845,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8364305,MGYS00006746,5.0,HEG07_2017_Illumina,51.2736,10.4104,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8364402,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS8364030,MGYS00006746,5.0,,,,,,,,unknown,False,False
+SRS7080478,MGYS00006741,5.0,SEW48,53.0513,13.845,,,,,unknown,True,False
+SRS7080495,MGYS00006741,5.0,AEG06,48.4013,9.4417,,,,,unknown,True,False
+SRS7080488,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080491,MGYS00006741,5.0,AEG41,48.3699,9.3985,,,,,unknown,True,False
+SRS7080496,MGYS00006741,5.0,AEG45,48.4013,9.458,,,,,unknown,True,False
+SRS7080220,MGYS00006741,5.0,SEG28,53.0931,14.0061,,,,,unknown,True,False
+SRS7080219,MGYS00006741,5.0,SEG27,53.1228,13.7074,,,,,unknown,True,False
+SRS7080223,MGYS00006741,5.0,SEG32,53.1519,13.8321,,,,,unknown,True,False
+SRS7080225,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080231,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080227,MGYS00006741,5.0,SEG36,52.9869,13.8376,,,,,unknown,True,False
+SRS7080234,MGYS00006741,5.0,SEG42,52.8707,13.9688,,,,,unknown,True,False
+SRS7080240,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080245,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080244,MGYS00006741,5.0,AEG48,48.4219,9.4987,,,,,unknown,True,False
+SRS7080249,MGYS00006741,5.0,AEW04,48.3991,9.2448,,,,,unknown,True,False
+SRS7080247,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080243,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080248,MGYS00006741,5.0,AEW03,48.4123,9.3556,,,,,unknown,True,False
+SRS7080254,MGYS00006741,5.0,AEW09,48.3694,9.4152,,,,,unknown,True,False
+SRS7080259,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080270,MGYS00006741,5.0,AEW24,48.479,9.2948,,,,,unknown,True,False
+SRS7080269,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080274,MGYS00006741,5.0,AEW27,48.4002,9.4744,,,,,unknown,True,False
+SRS7080276,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080282,MGYS00006741,5.0,AEW35,48.4457,9.4152,,,,,unknown,True,False
+SRS7080284,MGYS00006741,5.0,AEG11,48.4854,9.3477,,,,,unknown,True,False
+SRS7080283,MGYS00006741,5.0,AEW36,48.3804,9.2231,,,,,unknown,True,False
+SRS7080281,MGYS00006741,5.0,AEW34,48.3912,9.4959,,,,,unknown,True,False
+SRS7080277,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080359,MGYS00006741,5.0,SEG21,53.1062,13.6111,,,,,unknown,True,False
+SRS7080375,MGYS00006741,5.0,HEW43,51.3321,10.358,,,,,unknown,True,False
+SRS7080369,MGYS00006741,5.0,HEW37,51.0844,10.4586,,,,,unknown,True,False
+SRS7080368,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080379,MGYS00006741,5.0,HEW47,51.1789,10.3783,,,,,unknown,True,False
+SRS7080387,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080389,MGYS00006741,5.0,HEG14,51.2941,10.4358,,,,,unknown,True,False
+SRS7080382,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080386,MGYS00006741,5.0,SEG03,53.1028,13.9857,,,,,unknown,True,False
+SRS7080402,MGYS00006741,5.0,HEG27,51.0865,10.597,,,,,unknown,True,False
+SRS7080400,MGYS00006741,5.0,HEG25,51.0234,10.3223,,,,,unknown,True,False
+SRS7080396,MGYS00006741,5.0,HEG22,51.0308,10.3249,,,,,unknown,True,False
+SRS7080408,MGYS00006741,5.0,AEG15,48.4879,9.4487,,,,,unknown,True,False
+SRS7080405,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080427,MGYS00006741,5.0,HEG49,51.2789,10.3919,,,,,unknown,True,False
+SRS7080417,MGYS00006741,5.0,HEG41,51.221,10.3669,,,,,unknown,True,False
+SRS7080422,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080426,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080461,MGYS00006741,5.0,AEW45,48.3892,9.5013,,,,,unknown,True,False
+SRS7080448,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080463,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080465,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080472,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080473,MGYS00006741,5.0,HEG11,51.2807,10.4562,,,,,unknown,True,False
+SRS7080475,MGYS00006741,5.0,SEW43,52.901,13.9283,,,,,unknown,True,False
+SRS7080487,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080482,MGYS00006741,5.0,SEW50,53.0395,13.787,,,,,unknown,True,False
+SRS7080218,MGYS00006741,5.0,SEG26,53.1058,14.0184,,,,,unknown,True,False
+SRS7080252,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080253,MGYS00006741,5.0,AEW08,48.3826,9.3824,,,,,unknown,True,False
+SRS7080238,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080264,MGYS00006741,5.0,AEW18,48.365,9.2338,,,,,unknown,True,False
+SRS7080470,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080474,MGYS00006741,5.0,SEW44,52.9185,13.8592,,,,,unknown,True,False
+SRS7080287,MGYS00006741,5.0,AEW39,48.3758,9.2365,,,,,unknown,True,False
+SRS7080280,MGYS00006741,5.0,AEW33,48.3912,9.4905,,,,,unknown,True,False
+SRS7080486,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080485,MGYS00006741,5.0,AEG35,48.4809,9.2884,,,,,unknown,True,False
+SRS7080293,MGYS00006741,5.0,SEG49,52.9747,13.8566,,,,,unknown,True,False
+SRS7080481,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080296,MGYS00006741,5.0,SEW02,52.9517,13.778,,,,,unknown,True,False
+SRS7080490,MGYS00006741,5.0,AEG40,48.4098,9.5666,,,,,unknown,True,False
+SRS7080494,MGYS00006741,5.0,AEG44,48.378,9.435,,,,,unknown,True,False
+SRS7080497,MGYS00006741,5.0,AEG46,48.397,9.4349,,,,,unknown,True,False
+SRS7080297,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080230,MGYS00006741,5.0,SEG38,53.1157,13.6758,,,,,unknown,True,False
+SRS7080301,MGYS00006741,5.0,AEG29,48.4168,9.3583,,,,,unknown,True,False
+SRS7080307,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080228,MGYS00006741,5.0,AEG27,48.4191,9.4799,,,,,unknown,True,False
+SRS7080312,MGYS00006741,5.0,AEG30,48.4562,9.4573,,,,,unknown,True,False
+SRS7080239,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080255,MGYS00006741,5.0,AEW10,48.3778,9.3931,,,,,unknown,True,False
+SRS7080251,MGYS00006741,5.0,AEG07,48.3914,9.3768,,,,,unknown,True,False
+SRS7080313,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080256,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080258,MGYS00006741,5.0,AEW13,48.3789,9.3987,,,,,unknown,True,False
+SRS7080319,MGYS00006741,5.0,SEW25,52.921,13.7611,,,,,unknown,True,False
+SRS7080257,MGYS00006741,5.0,AEW12,48.3695,9.2514,,,,,unknown,True,False
+SRS7080318,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080266,MGYS00006741,5.0,AEW20,48.3701,9.3187,,,,,unknown,True,False
+SRS7080261,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080322,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080324,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080330,MGYS00006741,5.0,SEW35,52.9113,13.8534,,,,,unknown,True,False
+SRS7080323,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080268,MGYS00006741,5.0,AEW22,48.3823,9.4526,,,,,unknown,True,False
+SRS7080273,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080331,MGYS00006741,5.0,SEW36,52.9514,13.7541,,,,,unknown,True,False
+SRS7080303,MGYS00006741,5.0,SEW08,53.1918,13.9303,,,,,unknown,True,False
+SRS7080278,MGYS00006741,5.0,AEW31,48.3811,9.2568,,,,,unknown,True,False
+SRS7080349,MGYS00006741,5.0,SEG13,52.973,13.819,,,,,unknown,True,False
+SRS7080305,MGYS00006741,5.0,SEW10,53.0911,13.6378,,,,,unknown,True,False
+SRS7080347,MGYS00006741,5.0,SEG11,53.1056,13.993,,,,,unknown,True,False
+SRS7080325,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080338,MGYS00006741,5.0,SEW42,52.9028,13.9145,,,,,unknown,True,False
+SRS7080355,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080357,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080343,MGYS00006741,5.0,SEG07,53.0884,13.9771,,,,,unknown,True,False
+SRS7080341,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080373,MGYS00006741,5.0,HEW41,51.1081,10.4549,,,,,unknown,True,False
+SRS7080362,MGYS00006741,5.0,SEG24,53.093,13.9961,,,,,unknown,True,False
+SRS7080351,MGYS00006741,5.0,SEG15,53.1094,14.0091,,,,,unknown,True,False
+SRS7080377,MGYS00006741,5.0,HEW46,51.0481,10.4755,,,,,unknown,True,False
+SRS7080392,MGYS00006741,5.0,HEG17,51.0705,10.4705,,,,,unknown,True,False
+SRS7080381,MGYS00006741,5.0,HEW49,51.1437,10.3845,,,,,unknown,True,False
+SRS7080393,MGYS00006741,5.0,HEG18,51.2837,10.4247,,,,,unknown,True,False
+SRS7080410,MGYS00006741,5.0,HEG33,51.1114,10.426,,,,,unknown,True,False
+SRS7080406,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080385,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080395,MGYS00006741,5.0,HEG20,51.2211,10.371,,,,,unknown,True,False
+SRS7080399,MGYS00006741,5.0,HEG24,51.1011,10.3512,,,,,unknown,True,False
+SRS7080411,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080398,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080415,MGYS00006741,5.0,HEG39,51.1202,10.3463,,,,,unknown,True,False
+SRS7080407,MGYS00006741,5.0,HEG32,51.0755,10.5676,,,,,unknown,True,False
+SRS7080413,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080436,MGYS00006741,5.0,HEW11,51.1028,10.4009,,,,,unknown,True,False
+SRS7080440,MGYS00006741,5.0,HEW15,51.2051,10.3902,,,,,unknown,True,False
+SRS7080437,MGYS00006741,5.0,HEW12,51.1007,10.4552,,,,,unknown,True,False
+SRS7080420,MGYS00006741,5.0,HEG43,51.302,10.4358,,,,,unknown,True,False
+SRS7080442,MGYS00006741,5.0,HEW16,51.1832,10.3655,,,,,unknown,True,False
+SRS7080452,MGYS00006741,5.0,AEG20,48.4895,9.3564,,,,,unknown,True,False
+SRS7080445,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080458,MGYS00006741,5.0,HEW31,51.1423,10.3773,,,,,unknown,True,False
+SRS7080430,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080454,MGYS00006741,5.0,HEW27,51.3561,10.5213,,,,,unknown,True,False
+SRS7080431,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080434,MGYS00006741,5.0,HEW09,51.1302,10.3812,,,,,unknown,True,False
+SRS7080460,MGYS00006741,5.0,AEW43,48.3791,9.3783,,,,,unknown,True,False
+SRS7080439,MGYS00006741,5.0,HEW14,51.3662,10.2582,,,,,unknown,True,False
+SRS7080466,MGYS00006741,5.0,AEW49,48.4454,9.4764,,,,,unknown,True,False
+SRS7080469,MGYS00006741,5.0,HEG06,51.2149,10.3912,,,,,unknown,True,False
+SRS7080443,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080444,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080450,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080451,MGYS00006741,5.0,HEW25,51.2846,10.224,,,,,unknown,True,False
+SRS7080453,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080457,MGYS00006741,5.0,HEW30,51.1347,10.3786,,,,,unknown,True,False
+SRS7080456,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080455,MGYS00006741,5.0,HEW28,51.3589,10.5269,,,,,unknown,True,False
+SRS7080459,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080462,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080298,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080302,MGYS00006741,5.0,SEW07,53.1074,13.6944,,,,,unknown,True,False
+SRS7080294,MGYS00006741,5.0,SEG50,53.1218,13.7504,,,,,unknown,True,False
+SRS7080300,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080304,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080308,MGYS00006741,5.0,SEW14,52.9179,13.7522,,,,,unknown,True,False
+SRS7080309,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080311,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080320,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080315,MGYS00006741,5.0,SEW21,52.9156,13.7405,,,,,unknown,True,False
+SRS7080321,MGYS00006741,5.0,SEW27,52.89,14.001,,,,,unknown,True,False
+SRS7080329,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080334,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080333,MGYS00006741,5.0,SEW38,52.8885,13.6707,,,,,unknown,True,False
+SRS7080327,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080335,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080339,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080337,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080342,MGYS00006741,5.0,SEG06,53.1035,13.6228,,,,,unknown,True,False
+SRS7080346,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080345,MGYS00006741,5.0,SEG09,53.0982,13.6126,,,,,unknown,True,False
+SRS7080344,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080348,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080432,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080306,MGYS00006741,5.0,SEW12,53.0883,13.6983,,,,,unknown,True,False
+SRS7080493,MGYS00006741,5.0,AEG43,48.4134,9.542,,,,,unknown,True,False
+SRS7080480,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080358,MGYS00006741,5.0,SEG20,53.1035,13.6154,,,,,unknown,True,False
+SRS7080275,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080356,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080361,MGYS00006741,5.0,SEG23,53.1077,14.0259,,,,,unknown,True,False
+SRS7080328,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080360,MGYS00006741,5.0,,,,,,,,unknown,False,False
+SRS7080365,MGYS00006741,5.0,,,,,,,,unknown,False,False
+ERS3014896,MGYS00006740,5.0,Am_AEG22,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+SRS7080371,MGYS00006741,5.0,HEW39,51.093,10.4659,,,,,unknown,True,False
+ERS3014892,MGYS00006740,5.0,Am_AEG09,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014891,MGYS00006740,5.0,Am_AEG08,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+SRS7080353,MGYS00006741,5.0,,,,,,,,unknown,False,False
+ERS3014875,MGYS00006740,5.0,Ae_HEG10,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014868,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014880,MGYS00006740,5.0,Ae_HEG42,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014858,MGYS00006740,5.0,Ae_AEG04,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014862,MGYS00006740,5.0,Ae_AEG10,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015193,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015190,MGYS00006740,5.0,Ra_SEG12,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015191,MGYS00006740,5.0,Ra_SEG22,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015184,MGYS00006740,5.0,Ra_HEG27,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015186,MGYS00006740,5.0,Ra_HEG40,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015179,MGYS00006740,5.0,Ra_HEG10,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015171,MGYS00006740,5.0,Ra_AEG31,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015160,MGYS00006740,5.0,PlN_SEG46,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015170,MGYS00006740,5.0,Ra_AEG22,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015165,MGYS00006740,5.0,Ra_AEG09,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015155,MGYS00006740,5.0,PlN_SEG32c,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015127,MGYS00006740,5.0,PlN_AEG08,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015121,MGYS00006740,5.0,Pl_SEG43,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015111,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015145,MGYS00006740,5.0,PlN_HEG10,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015104,MGYS00006740,5.0,Pl_HEG03,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015141,MGYS00006740,5.0,PlN_HEG03,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015091,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015089,MGYS00006740,5.0,Pl_AEG07,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015097,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015085,MGYS00006740,5.0,DgN_SEG45,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015139,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015084,MGYS00006740,5.0,DgN_SEG43,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015079,MGYS00006740,5.0,DgN_SEG27c,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015088,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015070,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015076,MGYS00006740,5.0,DgN_SEG12,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015074,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015138,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015053,MGYS00006740,5.0,DgN_AEG33,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015066,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015051,MGYS00006740,5.0,DgN_AEG22,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015048,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015046,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015040,MGYS00006740,5.0,Dg_SEG45,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015047,MGYS00006740,5.0,DgN_AEG15,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015028,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015031,MGYS00006740,5.0,Dg_SEG02,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015024,MGYS00006740,5.0,Dg_HEG26,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015030,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015020,MGYS00006740,5.0,Dg_HEG15,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015019,MGYS00006740,5.0,Dg_HEG14,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015023,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015001,MGYS00006740,5.0,Dg_AEG09,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015015,MGYS00006740,5.0,Dg_HEG05,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015005,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015004,MGYS00006740,5.0,Dg_AEG18,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014993,MGYS00006740,5.0,Bulk_SEG43,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014994,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014986,MGYS00006740,5.0,Bulk_SEG05,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3015136,MGYS00006740,5.0,PlN_AEG33,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014969,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014965,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015135,MGYS00006740,5.0,PlN_AEG31,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014964,MGYS00006740,5.0,Bulk_AEG43,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014968,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014962,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014951,MGYS00006740,5.0,Bulk_AEG04,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014956,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014945,MGYS00006740,5.0,Ap_SEG02,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014949,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014946,MGYS00006740,5.0,Ap_SEG04c,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014918,MGYS00006740,5.0,Am_SEG32,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014937,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014919,MGYS00006740,5.0,Am_SEG35,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015192,MGYS00006740,5.0,Ra_SEG29,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015189,MGYS00006740,5.0,Ra_SEG02,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015194,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014913,MGYS00006740,5.0,Am_HEG40,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015187,MGYS00006740,5.0,Ra_HEG41,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014911,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015128,MGYS00006740,5.0,PlN_AEG09,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015126,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015185,MGYS00006740,5.0,Ra_HEG33,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014898,MGYS00006740,5.0,Am_AEG33,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015182,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014900,MGYS00006740,5.0,Am_HEG01,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015120,MGYS00006740,5.0,Pl_SEG35,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015178,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015116,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015177,MGYS00006740,5.0,Ra_HEG03,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015173,MGYS00006740,5.0,Ra_AEG38,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014890,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015115,MGYS00006740,5.0,Pl_HEG42,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015108,MGYS00006740,5.0,Pl_HEG15,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015167,MGYS00006740,5.0,Ra_AEG16,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015166,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015106,MGYS00006740,5.0,Pl_HEG09,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015162,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015159,MGYS00006740,5.0,PlN_SEG45,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014879,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015157,MGYS00006740,5.0,PlN_SEG40,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014878,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014874,MGYS00006740,5.0,Ae_HEG03,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015153,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015144,MGYS00006740,5.0,PlN_HEG09,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014876,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015150,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014872,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015143,MGYS00006740,5.0,PlN_HEG08,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014870,MGYS00006740,5.0,Ae_AEG44,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015110,MGYS00006740,5.0,Pl_HEG21,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015082,MGYS00006740,5.0,DgN_SEG35c,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015102,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015096,MGYS00006740,5.0,Pl_AEG21,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015087,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015086,MGYS00006740,5.0,DgN_SEG46,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015077,MGYS00006740,5.0,DgN_SEG22,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015078,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015075,MGYS00006740,5.0,DgN_SEG05,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015071,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015063,MGYS00006740,5.0,DgN_HEG15,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015073,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015061,MGYS00006740,5.0,DgN_HEG09,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015062,MGYS00006740,5.0,DgN_HEG10,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015058,MGYS00006740,5.0,DgN_HEG03,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015064,MGYS00006740,5.0,DgN_HEG16,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015052,MGYS00006740,5.0,DgN_AEG31,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015012,MGYS00006740,5.0,Dg_AEG47,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015014,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015039,MGYS00006740,5.0,Dg_SEG43,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015033,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015010,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015008,MGYS00006740,5.0,Dg_AEG33,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014996,MGYS00006740,5.0,Dg_AEG01,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015003,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014997,MGYS00006740,5.0,Dg_AEG04,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014995,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015060,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014990,MGYS00006740,5.0,Bulk_SEG29,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3015059,MGYS00006740,5.0,DgN_HEG05,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014987,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015057,MGYS00006740,5.0,DgN_HEG01,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014984,MGYS00006740,5.0,Bulk_SEG02,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3015056,MGYS00006740,5.0,DgN_AEG45,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015050,MGYS00006740,5.0,DgN_AEG21,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014966,MGYS00006740,5.0,Bulk_AEG47,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014976,MGYS00006740,5.0,Bulk_HEG19,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3015049,MGYS00006740,5.0,DgN_AEG18,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015038,MGYS00006740,5.0,Dg_SEG35,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015037,MGYS00006740,5.0,Dg_SEG32,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014961,MGYS00006740,5.0,Bulk_AEG31,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014952,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015035,MGYS00006740,5.0,Dg_SEG25,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014954,MGYS00006740,5.0,Bulk_AEG08,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3015029,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015027,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014947,MGYS00006740,5.0,Ap_SEG32,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014942,MGYS00006740,5.0,Ap_HEG33,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015021,MGYS00006740,5.0,Dg_HEG16,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015013,MGYS00006740,5.0,Dg_HEG01,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015009,MGYS00006740,5.0,Dg_AEG38,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015002,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014933,MGYS00006740,5.0,Ap_AEG45,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014940,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014929,MGYS00006740,5.0,Ap_AEG21,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014928,MGYS00006740,5.0,Ap_AEG16,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014989,MGYS00006740,5.0,Bulk_SEG27,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014923,MGYS00006740,5.0,Ap_AEG04,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014988,MGYS00006740,5.0,Bulk_SEG25,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014903,MGYS00006740,5.0,Am_HEG08,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014982,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014973,MGYS00006740,5.0,Bulk_HEG14,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014902,MGYS00006740,5.0,Am_HEG05,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014889,MGYS00006740,5.0,Am_AEG05,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014972,MGYS00006740,5.0,Bulk_HEG10,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014885,MGYS00006740,5.0,Ae_SEG43,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014881,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014960,MGYS00006740,5.0,Bulk_AEG22,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014970,MGYS00006740,5.0,Bulk_HEG08,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014867,MGYS00006740,5.0,Ae_AEG31,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014963,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014958,MGYS00006740,5.0,Bulk_AEG16,,,,Grassland,Bulk soil,Bulk soil,ENVO:00005750,False,False
+ERS3014943,MGYS00006740,5.0,Ap_HEG40,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014859,MGYS00006740,5.0,Ae_AEG05,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014861,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014936,MGYS00006740,5.0,Ap_HEG08,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014932,MGYS00006740,5.0,Ap_AEG38,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014939,MGYS00006740,5.0,Ap_HEG21,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014857,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014924,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014927,MGYS00006740,5.0,Ap_AEG15,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014926,MGYS00006740,5.0,Ap_AEG08,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014922,MGYS00006740,5.0,Am_SEG46,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014909,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014920,MGYS00006740,5.0,Am_SEG43,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014906,MGYS00006740,5.0,Am_HEG15,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014916,MGYS00006740,5.0,Am_SEG02c,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014905,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014948,MGYS00006740,5.0,Ap_SEG43,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015168,MGYS00006740,5.0,Ra_AEG18,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014899,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3014901,MGYS00006740,5.0,Am_HEG03,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015180,MGYS00006740,5.0,Ra_HEG14,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015134,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015068,MGYS00006740,5.0,DgN_HEG27,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014863,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015129,MGYS00006740,5.0,PlN_AEG10,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015131,MGYS00006740,5.0,PlN_AEG16,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3014860,MGYS00006740,5.0,Ae_AEG07,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015125,MGYS00006740,5.0,PlN_AEG05,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015099,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015095,MGYS00006740,5.0,,,,,,,,unknown,False,False
+ERS3015122,MGYS00006740,5.0,Pl_SEG45,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015094,MGYS00006740,5.0,Pl_AEG16,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015119,MGYS00006740,5.0,Pl_SEG32,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+ERS3015114,MGYS00006740,5.0,,,,,,,,unknown,False,False
+SRS8370197,MGYS00006745,5.0,AEG39_2014,48.3942,9.4257,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+ERS3015093,MGYS00006740,5.0,Pl_AEG15,,,,Grassland,Rhizosphere,Rhizosphere,ENVO:00005750,False,False
+SRS8370384,MGYS00006745,5.0,HEW32_2011,51.1395,10.3586,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8370386,MGYS00006745,5.0,HEG14_2017,51.2941,10.4358,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8370397,MGYS00006745,5.0,HEG23_2017,51.1343,10.3382,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8370206,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370396,MGYS00006745,5.0,HEG24_2017,51.1011,10.3512,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370205,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370398,MGYS00006745,5.0,HEG25_2017,51.0234,10.3223,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370215,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370219,MGYS00006745,5.0,HEG08_2014,51.2713,10.4179,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370399,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370413,MGYS00006745,5.0,HEG39_2017,51.1202,10.3463,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370239,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370408,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370240,MGYS00006745,5.0,HEG26_2014,51.2815,10.3717,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8370411,MGYS00006745,5.0,HEG38_2017,51.1162,10.3415,,temperate grassland,Mown pasture_cattle/horse_fertilised,soil,ENVO:00005750,True,False
+SRS8370414,MGYS00006745,5.0,HEG40_2017,50.9668,10.4468,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370419,MGYS00006745,5.0,HEG45_2017,51.0395,10.5085,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370225,MGYS00006745,5.0,HEG13_2014,51.2597,10.38,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370245,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370229,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369914,MGYS00006745,5.0,HEW20_2017,51.3339,10.3603,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369921,MGYS00006745,5.0,HEW25_2017,51.2846,10.224,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8370484,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369922,MGYS00006745,5.0,HEW26_2017,51.3443,10.513,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8370230,MGYS00006745,5.0,HEG19_2014,51.0732,10.4732,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370232,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370058,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370062,MGYS00006745,5.0,HEG07_2011,51.2736,10.4104,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370097,MGYS00006745,5.0,HEG41_2011,51.221,10.3669,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8369889,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369812,MGYS00006745,5.0,SEW26_2014,52.9174,13.7462,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8370096,MGYS00006745,5.0,HEW05_2011,51.2639,10.241,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369815,MGYS00006745,5.0,SEW27_2014,52.89,14.001,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8370107,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369814,MGYS00006745,5.0,SEW28_2014,52.884,13.664,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8370111,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369816,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369630,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369623,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369629,MGYS00006745,5.0,SEW05_2011,53.057,13.8854,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369822,MGYS00006745,5.0,SEW34_2014,52.8958,13.8522,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369632,MGYS00006745,5.0,SEW07_2011,53.1074,13.6944,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8369681,MGYS00006745,5.0,SEW49_2011,52.8853,13.8912,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369870,MGYS00006745,5.0,AEW27_2017,48.4002,9.4744,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369906,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369678,MGYS00006745,5.0,AEW05_2014,48.4196,9.4147,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369680,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369685,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369909,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369688,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369915,MGYS00006745,5.0,HEW18_2017,51.337,10.3655,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369689,MGYS00006745,5.0,AEW14_2014,48.3756,9.3378,,temperate forest,Spruce_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369926,MGYS00006745,5.0,HEW28_2017,51.3589,10.5269,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8369692,MGYS00006745,5.0,AEW17_2014,48.3965,9.243,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369924,MGYS00006745,5.0,HEW29_2017,51.1275,10.3797,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8369919,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369937,MGYS00006745,5.0,HEW41_2017,51.1081,10.4549,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8369698,MGYS00006745,5.0,AEW21_2014,48.4844,9.3212,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8369941,MGYS00006745,5.0,HEW42_2017,51.1028,10.4598,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8369696,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369940,MGYS00006745,5.0,HEW43_2017,51.3321,10.358,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8369953,MGYS00006745,5.0,AEW05_2011,48.4196,9.4147,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369700,MGYS00006745,5.0,AEW23_2014,48.3858,9.488,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369705,MGYS00006745,5.0,AEW27_2014,48.4002,9.4744,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369711,MGYS00006745,5.0,AEW31_2014,48.3811,9.2568,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369713,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369958,MGYS00006745,5.0,SEW07_2017,53.1074,13.6944,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8369718,MGYS00006745,5.0,AEW39_2014,48.3757,9.2364,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369724,MGYS00006745,5.0,AEW44_2014,48.3857,9.2231,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8374972,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369962,MGYS00006745,5.0,SEW12_2017,53.0883,13.6983,,temperate forest,Pine_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8374974,MGYS00006745,5.0,AEW42_2011,48.3961,9.4527,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369735,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369736,MGYS00006745,5.0,HEW04_2014,51.3695,10.5333,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8369966,MGYS00006745,5.0,SEW18_2017,52.8624,13.9173,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369968,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369969,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369738,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369746,MGYS00006745,5.0,HEW13_2014,51.2426,10.313,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369741,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369974,MGYS00006745,5.0,SEW24_2017,52.8897,13.9672,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369747,MGYS00006745,5.0,HEW14_2014,51.3662,10.2582,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8369977,MGYS00006745,5.0,SEW25_2017,52.921,13.7611,,temperate forest,Oak_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369988,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369751,MGYS00006745,5.0,HEW20_2014,51.3339,10.3603,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369980,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369992,MGYS00006745,5.0,SEW42_2017,52.9028,13.9145,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8369996,MGYS00006745,5.0,SEW44_2017,52.9185,13.8592,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8369762,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370003,MGYS00006745,5.0,SEW50_2017,53.0395,13.787,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369999,MGYS00006745,5.0,SEW49_2017,52.8853,13.8912,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369763,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370002,MGYS00006745,5.0,AEW46_2011,48.3863,9.3593,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8369764,MGYS00006745,5.0,HEW31_2014,51.1423,10.3773,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8370011,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369767,MGYS00006745,5.0,HEW32_2014,51.1395,10.3586,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8369770,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370013,MGYS00006745,5.0,AEG11_2011,48.4854,9.3477,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8370015,MGYS00006745,5.0,AEW47_2011,48.4167,9.4079,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8369777,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369774,MGYS00006745,5.0,HEW40_2014,51.0799,10.4983,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8370027,MGYS00006745,5.0,AEG21_2011,48.4422,9.3572,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8369791,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370032,MGYS00006745,5.0,AEG27_2011,48.4191,9.4799,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8369788,MGYS00006745,5.0,SEW01_2014,52.9009,13.8464,,temperate forest,Pine_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369790,MGYS00006745,5.0,SEW04_2014,52.9174,13.8473,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8370040,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370033,MGYS00006745,5.0,AEG28_2011,48.4621,9.4923,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8369801,MGYS00006745,5.0,SEW15_2014,52.9145,13.7376,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8370049,MGYS00006745,5.0,AEG43_2011,48.4134,9.542,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8369792,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369811,MGYS00006745,5.0,SEW23_2014,52.949,13.7792,,temperate forest,Oak_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8370065,MGYS00006745,5.0,HEG12_2011,51.0772,10.5758,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8369826,MGYS00006745,5.0,SEW37_2014,52.94,13.7826,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369821,MGYS00006745,5.0,SEW33_2014,52.915,13.8874,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369832,MGYS00006745,5.0,SEW42_2014,52.9028,13.9145,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8370078,MGYS00006745,5.0,HEG23_2011,51.1343,10.3382,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370074,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370071,MGYS00006745,5.0,HEG17_2011,51.0705,10.4705,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8369830,MGYS00006745,5.0,SEW44_2014,52.9185,13.8592,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8370082,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369838,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370084,MGYS00006745,5.0,HEG29_2011,51.2641,10.4984,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8369840,MGYS00006745,5.0,SEW49_2014,52.8853,13.8912,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8370091,MGYS00006745,5.0,HEG34_2011,51.2143,10.3869,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8369851,MGYS00006745,5.0,AEW32_2011,48.4105,9.3664,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8370090,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370086,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370102,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370100,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370105,MGYS00006745,5.0,HEG47_2011,51.2842,10.3719,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370106,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370104,MGYS00006745,5.0,HEG48_2011,51.2868,10.3801,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370110,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369624,MGYS00006745,5.0,AEW01_2011,48.4781,9.3344,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369631,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369641,MGYS00006745,5.0,SEW15_2011,52.9145,13.7376,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369642,MGYS00006745,5.0,SEW18_2011,52.8624,13.9173,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369649,MGYS00006745,5.0,SEW25_2011,52.921,13.7611,,temperate forest,Oak_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369654,MGYS00006745,5.0,SEW29_2011,53.0172,13.8622,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369670,MGYS00006745,5.0,SEW42_2011,52.9028,13.9145,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8369682,MGYS00006745,5.0,AEW08_2014,48.3826,9.3824,,temperate forest,Beech_extensively_managed_mature_timber,soil,ENVO:01001198,True,False
+SRS8369677,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369697,MGYS00006745,5.0,AEW18_2011,48.365,9.2338,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369684,MGYS00006745,5.0,AEW10_2014,48.3778,9.3931,,temperate forest,Spruce_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369704,MGYS00006745,5.0,AEW26_2014,48.4175,9.4382,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369687,MGYS00006745,5.0,AEW17_2011,48.3965,9.243,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369708,MGYS00006745,5.0,AEW30_2014,48.3727,9.3714,,temperate forest,Beech_age-class_mixed_immature_timber,soil,ENVO:01001198,True,False
+SRS8369716,MGYS00006745,5.0,AEW37_2014,48.3921,9.4392,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8369740,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369730,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369743,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369756,MGYS00006745,5.0,HEW23_2014,51.2782,10.2085,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8369752,MGYS00006745,5.0,HEW18_2014,51.337,10.3655,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369745,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369769,MGYS00006745,5.0,HEW34_2014,51.0847,10.4543,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8369796,MGYS00006745,5.0,SEW08_2014,53.1918,13.9303,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8369782,MGYS00006745,5.0,HEW46_2014,51.0481,10.4755,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369857,MGYS00006745,5.0,AEW16_2017,48.3861,9.4447,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8369794,MGYS00006745,5.0,SEW06_2014,52.9074,13.8417,,temperate forest,Beech_age-class_thicket_with_shelterwood,soil,ENVO:01001198,True,False
+SRS8369860,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369800,MGYS00006745,5.0,SEW14_2014,52.9179,13.7522,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369856,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369802,MGYS00006745,5.0,SEW17_2014,52.9424,13.8275,,temperate forest,Pine_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369862,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369866,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369869,MGYS00006745,5.0,AEW26_2017,48.4175,9.4382,,temperate forest,Beech_age-class_pole_wood,soil,ENVO:01001198,True,False
+SRS8369806,MGYS00006745,5.0,SEW20_2014,53.0886,13.6354,,temperate forest,Pine_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369805,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369807,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369808,MGYS00006745,5.0,SEW21_2014,52.9156,13.7405,,temperate forest,Pine_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369820,MGYS00006745,5.0,SEW32_2014,53.0628,13.9271,,temperate forest,Pine/Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369817,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369823,MGYS00006745,5.0,SEW35_2014,52.9113,13.8534,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369847,MGYS00006745,5.0,AEW06_2017,48.3941,9.4459,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8369824,MGYS00006745,5.0,SEW38_2014,52.8885,13.6707,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369835,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8369846,MGYS00006745,5.0,AEW05_2017,48.4196,9.4147,,temperate forest,Beech_age-class_mature_timber,soil,ENVO:01001198,True,False
+SRS8369859,MGYS00006745,5.0,AEW15_2017,48.3895,9.4065,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8369849,MGYS00006745,5.0,AEW08_2017,48.3826,9.3824,,temperate forest,Beech_extensively_managed_mature_timber,soil,ENVO:01001198,True,False
+SRS8369868,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370363,MGYS00006745,5.0,AEG44_2017,48.378,9.435,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370377,MGYS00006745,5.0,HEG08_2017,51.2713,10.4179,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370367,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370383,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370385,MGYS00006745,5.0,HEG13_2017,51.2597,10.38,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8370392,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370390,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370387,MGYS00006745,5.0,HEG16_2017,51.0335,10.4588,,temperate grassland,Mown Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370405,MGYS00006745,5.0,HEW34_2011,51.0847,10.4543,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8370393,MGYS00006745,5.0,HEG21_2017,51.1907,10.7526,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370400,MGYS00006745,5.0,HEG27_2017,51.0865,10.597,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8370410,MGYS00006745,5.0,HEG36_2017,51.0315,10.5102,,temperate grassland,Pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8370401,MGYS00006745,5.0,HEG28_2017,51.2659,10.4969,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8370418,MGYS00006745,5.0,HEG44_2017,51.0552,10.4796,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8374995,MGYS00006745,5.0,HEG41_2017,51.221,10.3669,,temperate grassland,Pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370416,MGYS00006745,5.0,HEG42_2017,51.0694,10.4648,,temperate grassland,Mown pasture_sheep_unfertilised,soil,ENVO:00005750,True,False
+SRS8370422,MGYS00006745,5.0,HEG48_2017,51.2868,10.3801,,temperate grassland,Mown pasture_sheep_fertilised,soil,ENVO:00005750,True,False
+SRS8370431,MGYS00006745,5.0,SEG03_2017,53.1028,13.9857,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370438,MGYS00006745,5.0,SEG14_2017,53.0866,13.9803,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370425,MGYS00006745,5.0,HEW36_2011,51.1063,10.4093,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8370447,MGYS00006745,5.0,SEG21_2017,53.1062,13.6111,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370442,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370460,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370452,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370465,MGYS00006745,5.0,SEG39_2017,52.9809,13.8233,,temperate grassland,Mown pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370467,MGYS00006745,5.0,HEW40_2011,51.0799,10.4983,,temperate forest,Beech_unmanaged_mature_timber,soil,ENVO:01001198,True,False
+SRS8370457,MGYS00006745,5.0,SEG30_2017,53.1481,13.8307,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8370473,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8374999,MGYS00006745,5.0,HEW46_2011,51.0481,10.4755,,temperate forest,Beech_age-class_immature_timber,soil,ENVO:01001198,True,False
+SRS8370481,MGYS00006745,5.0,HEW43_2011,51.3321,10.358,,temperate forest,Beech_age-class_thicket,soil,ENVO:01001198,True,False
+SRS8370480,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370131,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370117,MGYS00006745,5.0,SEG12_2011,53.0874,13.9652,,temperate grassland,Meadow_fertilised,soil,ENVO:00005750,True,False
+SRS8370136,MGYS00006745,5.0,SEG27_2011,53.1228,13.7074,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8370135,MGYS00006745,5.0,SEG30_2011,53.1481,13.8307,,temperate grassland,Meadow_unfertilised,soil,ENVO:00005750,True,False
+SRS8370134,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370137,MGYS00006745,5.0,HEW09_2011,51.1302,10.3812,,temperate forest,Beech_selection_system,soil,ENVO:01001198,True,False
+SRS8374983,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370153,MGYS00006745,5.0,SEG45_2011,52.8815,13.9594,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8374986,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8374985,MGYS00006745,5.0,SEG48_2011,53.0972,13.6066,,temperate grassland,Pasture_cattle_unfertilised,soil,ENVO:00005750,True,False
+SRS8370159,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8374988,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370161,MGYS00006745,5.0,,,,,,,,unknown,False,False
+SRS8370162,MGYS00006745,5.0,AEG04_2014,48.3809,9.4189,,temperate grassland,Mown pasture_cattle_fertilised,soil,ENVO:00005750,True,False
+SRS8370166,MGYS00006745,5.0,,,,,,,,unknown,False,False
