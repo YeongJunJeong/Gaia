@@ -12,9 +12,9 @@ from sklearn.ensemble import RandomForestClassifier, RandomForestRegressor
 from sklearn.model_selection import train_test_split
 
 # Load expanded model + tokenizer
-model = GPT2LMHeadModel.from_pretrained("checkpoints/gaia_v2/best")
+model = GPT2LMHeadModel.from_pretrained("checkpoints/gaia_v3/best")
 model.eval()
-with open("checkpoints/gaia_v2/tokenizer.pkl", "rb") as f:
+with open("checkpoints/gaia_v3/tokenizer.pkl", "rb") as f:
     tokenizer = pickle.load(f)
 print(f"Model loaded: vocab={len(tokenizer.vocab)}")
 
